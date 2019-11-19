@@ -1,0 +1,7 @@
+name: "hello"
+version: "0.1.0"
+usage: "You know how to use this..."
+description: "Happy hello"
+ignoreFlags: false
+command: hello.sh
+
